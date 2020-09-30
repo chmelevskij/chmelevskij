@@ -1,9 +1,11 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on full stack js project
-- 🌱 I’m currently learning design, machine learning and svelte
-- 👯 I’m looking to collaborate on interesting projects
-- 💬 Ask me about anything!
-- ⚡ Fun fact: I once built 5 meter pink chair
+      ___           ___                         ___           ___     
+     /\__\         /\  \         _____         /\__\         /\__\    
+    /:/  /        /::\  \       /::\  \       /:/ _/_       /:/ _/_   
+   /:/  /        /:/\:\  \     /:/\:\  \     /:/ /\__\     /:/ /\  \  
+  /:/  /  ___   /:/  \:\  \   /:/  \:\__\   /:/ /:/ _/_   /:/ /::\  \ 
+ /:/__/  /\__\ /:/__/ \:\__\ /:/__/ \:|__| /:/_/:/ /\__\ /:/_/:/\:\__\
+ \:\  \ /:/  / \:\  \ /:/  / \:\  \ /:/  / \:\/:/ /:/  / \:\/:/ /:/  /
+  \:\  /:/  /   \:\  /:/  /   \:\  /:/  /   \::/_/:/  /   \::/ /:/  / 
+   \:\/:/  /     \:\/:/  /     \:\/:/  /     \:\/:/  /     \/_/:/  /  
+    \::/  /       \::/  /       \::/  /       \::/  /        /:/  /   
+     \/__/         \/__/         \/__/         \/__/         \/__/    
